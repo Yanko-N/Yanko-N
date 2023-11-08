@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 Favourite Areas **Back End Dev and Game Develpment**
 
-- 🎓 I’m currently coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (3rd year)**
+- 🎓 I’m currently coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (Final Semester)**
 
 - ⌨️ Languages **C, C++, C# and a bit of: Python, JavaScript and Java**
 
