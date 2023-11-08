@@ -1,16 +1,19 @@
 ### Hi there 👋
+<h1 align="center">Hey, I'm Vitor Novo</h1>
+<h3 align="center">An Software Engineering Student at Universidade de Trás-os-Montes e Alto Douro (UTAD)</h3>
 
-<!--
-**Yanko-N/Yanko-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I’m currently studying at **[UTAD](https://www.utad.pt/)**
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 Favourite Areas **Back End Dev and Game Develpment**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’m currently coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (3rd year)**
+
+- ⌨️ Languages **C, C++, C# and a bit of: Python, JavaScript and Java**
+
+- 💻 Looking to Learn **More advanced c++ and unity develpment**
+
+- 🌍 I'm from **Ponte de Lima, Portugal**
+
+- 📫 How to reach me: **vitorjmnovo@gmail.com**
+
+
