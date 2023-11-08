@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hey, I'm Vitor Novo</h1>
 <h3 align="center">An Software Engineering Student at Universidade de Trás-os-Montes e Alto Douro (UTAD)</h3>
 
@@ -16,4 +16,4 @@
 
 - 📫 How to reach me: **vitorjmnovo@gmail.com**
 
-
+-🛹 My hoobies are skateboarding and playing some games !
