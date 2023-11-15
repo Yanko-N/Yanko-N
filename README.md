@@ -18,4 +18,4 @@
 
 -🛹 My hoobies are skateboarding and playing some games !
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanko-n&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Yanko-N_Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanko-n&show_icons=true&theme=buefy&hide_border=true&locale=en&layout=compact" alt="Yanko-N_Stats" /></p>
