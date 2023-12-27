@@ -1,4 +1,5 @@
-<p>![](https://komarev.com/ghpvc/?username=Yanko-N)</p>
+![](https://komarev.com/ghpvc/?username=yanko-n)
+
 <h1 align="center">Hey, I'm Vitor Novo</h1>
 <h3 align="center">An Informatics Engineering Student at Universidade de Trás-os-Montes e Alto Douro (UTAD)</h3>
 
