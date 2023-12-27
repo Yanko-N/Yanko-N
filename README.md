@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey, I'm Vitor Novo</h1>
-<h3 align="center">An Software & Informatics Engineering Student at Universidade de Trás-os-Montes e Alto Douro (UTAD)</h3>
+<h3 align="center">An Informatics Engineering Student at Universidade de Trás-os-Montes e Alto Douro (UTAD)</h3>
 
 - 📚 I’m currently studying at **[UTAD](https://www.utad.pt/)**
       coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/)**
