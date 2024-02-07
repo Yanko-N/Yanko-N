@@ -3,14 +3,11 @@
 <h1 align="center">Hey, I'm Vitor Novo</h1>
 <h3 align="center">An Informatics Engineering Student at Universidade de Trás-os-Montes e Alto Douro (UTAD)</h3>
 
-- 📚 I’m currently studying at **[UTAD](https://www.utad.pt/)**
-      coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/)**
+- 📚 Bachelors Degree at **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/)** in **[UTAD](https://www.utad.pt/)**
 
-- ✅ Favourite Areas **Back End and Game Develpment**
+- ✅ Favourite Areas **Back End and Game Development**
 
 - 📄 Languages **C, C++, C# and a bit of: Python, JavaScript and Java**
-
-- 💻 Looking to Learn **More advanced c++, c# and unity develpment**
 
 - 🌍 I'm from **Ponte de Lima, Portugal**
 
