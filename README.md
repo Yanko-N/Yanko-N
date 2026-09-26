@@ -14,8 +14,3 @@
 - 📩 How to reach me: **vitorjmnovo@gmail.com**
 
 -🛹🎮 My hoobies are skateboarding and playing some games !
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yanko-n&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue" alt="Yanko-N_Stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanko-n&layout=pie&theme=shadow_blue" alt="Yanko-N_StatsLanguages" /></p>
-
-
